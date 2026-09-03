@@ -11,42 +11,42 @@ Orientador: Pedro Henrique Miho Souza
 
 ---
 
-Front-end: 
+# Front-end: 
 HTML5, CSS3, Bootstrap, Javascript, Django Templates.
 
 ---
 
-BACK-END
+# BACK-END
 Python, Django Framework.
 
 ---
 
-BANCO DE DADOS:
+# BANCO DE DADOS:
 PostgreSQL, Django ORM.
 
 ---
 
-VERSIONAMENTO:
+# VERSIONAMENTO:
 Git, Github.
 
 ---
 
-DEPLOY E HOSPEDAGEM:
+# DEPLOY E HOSPEDAGEM:
 Render, Github.
 
 ---
 
-SEGURANÇA, LGPD E LOGS:
+# SEGURANÇA, LGPD E LOGS:
 Django Auth, Hashing PBKDF2, Minimização de Dado.
 
 ---
 
-TESTES E QUALIDADE:
+# TESTES E QUALIDADE:
 Testes Unitários e de Integração (Django Test Framework).
 
 ---
 
-REQUISITOS FUNCIONAIS: 
+# REQUISITOS FUNCIONAIS: 
 RF01: Permitir a consulta de conteúdos educativos organizados por categorias e temas.
 RF02: Disponibilizar um guia educativo sobre prevenção de IST e métodos contraceptivos   
 RF03: Permitir a realização de quizzes educativos com feedback explicativo.  
@@ -55,7 +55,7 @@ RF05: Permitir o registro e acompanhamento do progresso de usuários autenticado
 
 ---
 
-REQUISITOS NÃO FUNCIONAIS: 
+# REQUISITOS NÃO FUNCIONAIS: 
 RNF01: Responsividade e Usabilidade.
 RNF02: Desempenho e Disponibilidade.
 RNF03: Segurança e Privacidade.
@@ -63,7 +63,7 @@ RNF04: Acessibilidade.
 
 ---
 
-ENTIDADES DE DADOS: 
+# ENTIDADES DE DADOS: 
 Usuário, Categoria, Conteúdo, Quiz, Pergunta e Alternativa, Progresso_Conteúdo, Resultado do Quiz.
 
 ---
