@@ -48,9 +48,13 @@ Testes Unitários e de Integração (Django Test Framework).
 
 # REQUISITOS FUNCIONAIS: 
 RF01: Permitir a consulta de conteúdos educativos organizados por categorias e temas.
-RF02: Disponibilizar um guia educativo sobre prevenção de IST e métodos contraceptivos   
+
+RF02: Disponibilizar um guia educativo sobre prevenção de IST e métodos contraceptivos 
+
 RF03: Permitir a realização de quizzes educativos com feedback explicativo.  
+
 RF04: Permitir o cadastro e autenticação opcional de usuários.  
+
 RF05: Permitir o registro e acompanhamento do progresso de usuários autenticados. 
 
 ---
