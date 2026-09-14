@@ -1,13 +1,6 @@
 # 🏥 PLATAFORMA WEB PARA PREVENÇÃO DE IST PARA JOVENS E PROFESSORES 🧬
-Projeto Finalizador de Curso - Bacharelado em Engenharia de Software - 8° Período
 
 # 🏥 ESTRUTURA E TECNOLOGIAS DO PROJETO 🧬
-
-**Samuel Oliveira Acácio — RGM: 11231100856**
-Bacharelado em Engenharia de Software — Universidade de Mogi das Cruzes - UMC 2026
-Disciplina: Projeto de Finalização de Curso - PFC
-Professor: Alessandro Aparecido da Silva Horas 
-Orientador: Pedro Henrique Miho Souza
 
 ---
 
